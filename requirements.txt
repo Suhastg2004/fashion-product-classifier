@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+torchsummary
+fastapi
+uvicorn
+streamlit
+pillow
+python-multipart
+onnxruntime
+numpy==1.26
+
